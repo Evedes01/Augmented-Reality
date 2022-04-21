@@ -3,8 +3,7 @@
 body {
   background-color: rgb(42, 0, 69);
   background-image: url("80sbg.jpg");
-  /*background-position: top;*/
-  background-repeat: no-repeat; /* Do not repeat the image */
+  background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
   background-attachment: fixed;
@@ -27,7 +26,6 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 250px;
-  /*font-family: "Segoe UI" , sans-serif;*/
   font-family: "Consolas" , monospace;
   font-size: 20px;
   border-radius: 7px;
