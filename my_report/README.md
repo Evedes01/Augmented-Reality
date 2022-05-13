@@ -17,7 +17,8 @@
 Για το 2ο μέρος αυτής της εργασίας (Deliverable 2) ξεκίνησα από το ζητούμενο του Custom marker με βάση το dpsd. Έφτιαξα το περιεχόμενο του marker σε ένα πρόγραμμα ζωγρφικής (Krita), και έπειτα το ανέβασα στο [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html) για να φτιάξω τον marker.
 <br>
 Στη συνέχεια πήγα στον κώδικα και έβαλα τον marker με την εντολή <a-marker> μέσα στο <a-scene>, και το έκανα λινκ με το url στο patt αρχείο, ώστε να διαβάζει η κάμερα τον marker.
-
+<br>
+![](pic1.PNG)
 # 3rd Deliverable 
 
 
