@@ -14,7 +14,7 @@
     init: function() {
     let toggle = false
       this.el.addEventListener("click", (e) => {
-        let box = document.querySelectorAll(".info")
+        let box = document.querySelectorAll(".clickable")
         box.forEach(function(el) {
             el.setAttribute("visible", toggle)
         })
@@ -39,7 +39,7 @@
             gps-entity-place="latitude: 40.93673; longitude: 140.31253;" On_click>
         </a-entity>
     <a-text id="text"
-      class="info" value="This is the entrance of the Takayamaryu Shrine in Aomori Prefecture, Japan." scale="5 5 5" position="1 0 -61"
+      class="clickable" value="This is the entrance of the Takayamaryu Shrine in Aomori Prefecture, Japan." scale="5 5 5" position="1 0 -61"
        text="color: #000000; font: dejavu; align: center;" visible="false">
     </a-text>
 
