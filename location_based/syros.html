@@ -16,10 +16,12 @@
 		embedded
         arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; debugUIEnabled: false;'>
 
-        <a-image gps-entity-place="latitude: 37.446312; longitude: 24.943301;" src="./assets/bsf_ship.jpg" 
+        <a-box material="color: red;"
+            scale="20 20 20"" 
 		  position="0 1 0"
-		  scale="0.1 0.1 0.1">
-        </a-image>
+		  scale="0.1 0.1 0.1"
+		  gps-entity-place="latitude: 37.446312; longitude: 24.943301;" >
+        </a-box>
         
         
         <a-camera gps-camera rotation-reader></a-camera>
