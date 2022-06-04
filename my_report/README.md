@@ -82,6 +82,13 @@
  ![](del3_9.PNG)
  <br>
  <br>
+ Επιπλέον, προσέθεσα αυτόν τον κώδικα:
+ <br>
+ ![](del3_10.PNG)
+ <br>
+ σύμφωνα με αυτή την [σελίδα](https://blog.davidvassallo.me/2019/09/26/augmented-reality-using-aframe-tips-tricks/?fbclid=IwAR14F6PGXsfTtOwcXSzFxRNFMCIDI31PY4rPZlJblMY3HiFU7rcpwBNd9Is), προκειμένου να λειτουργεί σωστά το πάτημα του ποντικιού.
+<br>
+ <br>
  Όσων αφορά το 3ο κομάτι αυτού του παραδοτέου, το Syros Location-based, ξεκίνησα αλλάζοντας τις συντεταγμένες στο σημείο που επέλεξα στη Σύρο και προστίθοντας αντί για το magnemite ένα κόκκινο κουτί για να δοκιμάσω αν λειτουργεί το location.
 # Conclusions
 
